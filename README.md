@@ -94,7 +94,7 @@ I'm looking for **backend / ML engineering roles in fintech** — particularly c
 
 [![Email](https://img.shields.io/badge/neetanshpshah@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=0d1117)](mailto:neetanshpshah@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin/in/neetansh-0d1117?style=flat-square&logo=linkedin&logoColor=0a66c2&labelColor=0d1117)](https://linkedin.com/in/neetansh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-neetansh.dev-3b82f6?style=flat-square&labelColor=0d1117)](https://tagassist.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-neetansh.dev-3b82f6...)](https://your-actual-url.vercel.app)
 
 ---
 
